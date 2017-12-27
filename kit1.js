@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function newSpell() {
+function kit1() {
     "hello"
 	
 }
